@@ -11,7 +11,8 @@ I'm a **Developer**, looking to solve **real-world problems**. I'm passionate ab
 
 <h3>How to reach me:</h3>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-<br>
+
+
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-MuktidaPandey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muktida-pandey-996a7b1a5/)
 [![Gmail](https://img.shields.io/badge/-muktida02-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:muktida02@gmail.com)
