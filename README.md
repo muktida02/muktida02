@@ -89,6 +89,9 @@ I'm a **Developer**, looking to solve **real-world problems**. I'm passionate ab
 </a>
 </p>
 
+
+<hr>
+
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Real Time GUI Currency Converter in Python](https://muktida02.medium.com/real-time-gui-currency-converter-in-python-2884f8b784fb)
