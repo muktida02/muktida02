@@ -88,3 +88,10 @@ I'm a **Developer**, looking to solve **real-world problems**. I'm passionate ab
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muktida02&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### 📕 My Latest Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [Real Time GUI Currency Converter in Python](https://muktida02.medium.com/real-time-gui-currency-converter-in-python-2884f8b784fb)
+
+<!-- BLOG-POST-LIST:END -->
+---
