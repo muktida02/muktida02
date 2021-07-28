@@ -8,6 +8,8 @@
 <!--Introduction -->
 I'm a **Developer**, looking to solve **real-world problems**. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
+
+<h3>How to reach me:</h3>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
@@ -17,12 +19,6 @@ I'm a **Developer**, looking to solve **real-world problems**. I'm passionate ab
 [![Medium](https://img.shields.io/badge/-@muktida02-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@muktida02)
 [![Instagram](https://img.shields.io/badge/-muktidapandey-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/muktidapandey)
 
-<hr>
-
-<h3>How to reach me:</h3>
-
-<a href="https://www.linkedin.com/in/gustavo-soriano-7326b9130"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:sorianox2013@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
 
 <h2>Tools & Technologies</h2>
