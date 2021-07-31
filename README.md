@@ -19,7 +19,7 @@ I'm a **Developer**, looking to solve **real-world problems**. I'm passionate ab
 [![Linkedin](https://img.shields.io/badge/-MuktidaPandey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muktida-pandey-996a7b1a5/)
 [![Gmail](https://img.shields.io/badge/-muktida02-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:muktida02@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-muktida02-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/muktida02)
-[![Medium](https://img.shields.io/badge/-@moonshine-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@muktida02)
+[![Medium](https://img.shields.io/badge/-@muktida-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@muktida02)
 [![Instagram](https://img.shields.io/badge/-muktidapandey-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/muktidapandey)
 
 <hr>
@@ -97,6 +97,8 @@ I'm a **Developer**, looking to solve **real-world problems**. I'm passionate ab
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Real Time GUI Currency Converter in Python](https://muktida02.medium.com/real-time-gui-currency-converter-in-python-2884f8b784fb)
+- [Git, GitHub, and Version Control](https://muktida02.medium.com/git-github-and-version-control-deebdf8bde6e)
+
 
 <!-- BLOG-POST-LIST:END -->
 ---
