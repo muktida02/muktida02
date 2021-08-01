@@ -79,7 +79,6 @@ I'm a **Developer**, looking to solve **real-world problems**. I'm passionate ab
 ### ✔  Windows
 ### ✔  RedHat Linux
 
-
 <hr>
 
 ### ⚙️ &nbsp;GitHub Analytics
