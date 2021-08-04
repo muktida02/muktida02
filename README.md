@@ -70,7 +70,7 @@ I'm a **Developer**, looking to solve **real-world problems**. I'm passionate ab
 
 ### ✔  **Domain :** Developer and Designer 💻
 ### ✔  **Learning :** Backend, Cloud and Blockchain
-### ✔  **Hobbies :**  Games, Books📕, Coding, Travel, Music 🎧
+### ✔  **Hobbies :**  Games, Books📕, Coding, Music 🎧, Travel
 
 <hr>
 
