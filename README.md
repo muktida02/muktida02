@@ -95,6 +95,7 @@ I'm a **Developer**, looking to solve **real-world problems**. I'm passionate ab
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
+-[How to Design Wave Image in HTML ?](https://www.geeksforgeeks.org/how-to-design-wave-image-in-html/)
 - [Real Time GUI Currency Converter in Python](https://muktida02.medium.com/real-time-gui-currency-converter-in-python-2884f8b784fb)
 - [Git, GitHub, and Version Control](https://muktida02.medium.com/git-github-and-version-control-deebdf8bde6e)
 
